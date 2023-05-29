@@ -23,4 +23,4 @@ Business Problem: British Airways want to know what factors influence customers 
 • Creating a classification model to predict customer buying behaviour using various Machine Learning
   algorithms.
 
-* Certification Link: Certificate
+* Certification Link: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_2uwJ4avc52dHLjW7o_1684067642210_completion_certificate.pdf)
